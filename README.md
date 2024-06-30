@@ -3,7 +3,7 @@
 <h3 align="center">🤖 Machine Learning Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiakshat&label=Profile%20views&color=0e75b6&style=flat" alt="iiakshat" /> </p>
-<a href="jakshat569@gmail.com" target="blank"> <img align="right" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+<a href="jakshat569@gmail.com" target="blank"> <img align="right" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" /></a>
   
 ## 🐧 ` Connect with me `
 

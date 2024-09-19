@@ -1,4 +1,3 @@
-
 <h1 align="center">Akshat Sanghvi</h1>
 <h3 align="center">🤖 Machine Learning Engineer </h3>
 
@@ -32,7 +31,7 @@
 
 ## 🧑‍💻 ` My Tech Stack `
 ### `Languages` 
-<p align="center">
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -45,7 +44,7 @@
 </br>
 
 ### `Frameworks`
-<p align="center">
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://numpy.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
@@ -57,18 +56,18 @@
 </br>
 
 ### `Database`
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.CXs0mrHXjBV0TDqJ_0V5OQHaHa?rs=1&pid=ImgDetMain" alt="mysql" width="45" height="45"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://d1muf25xaso8hp.cloudfront.net/https://meta-l.cdn.bubble.io/f1679157815668x357855949495047500/io6cC6vZ_400x400.png?w=&h=&auto=compress&dpr=1&fit=max" alt="pinecone" width="43" height="43"/> </a>
-  <a href="https://milvus.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.8qrwCdAAscEPjuSqT9pHuwAAAA?rs=1&pid=ImgDetMain" alt="milvus" width="46" height="45"/> </a> 
+  <a href="https://milvus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0e8a1e22-f7d7-415b-8984-acc352ad0f5a" alt="PostgreSql" width="46" height="45"/> </a> 
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/> </a> 
    </p>
 
 </br>
 
 ### `Development`
-<p align="center"> 
+<p align="left"> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> 
@@ -84,6 +83,7 @@
 ## 📊 ` Profile Stats `
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=iiakshat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=iiakshat&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iiakshat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="150" alt="languages graph"  />

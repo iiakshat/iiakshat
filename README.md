@@ -22,7 +22,7 @@
   
 <div align="center">
   
-[![Cobra.Ai](https://github-readme-stats.vercel.app/api/pin/?username=iiakshat&repo=cobra.ai&theme=graywhite&show_owner=true)](https://github.com/iiakshat/cobra.ai)
+[![IMS](https://github-readme-stats.vercel.app/api/pin/?username=iiakshat&repo=institution-management-system&theme=graywhite&show_owner=true)](https://github.com/iiakshat/institution-management-system)
 
 </div>
 

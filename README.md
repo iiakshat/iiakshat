@@ -22,7 +22,7 @@
   
 <div align="center">
   
-[![IMS](https://github-readme-stats.vercel.app/api/pin/?username=iiakshat&repo=institution-management-system&theme=graywhite&show_owner=true)](https://github.com/iiakshat/institution-management-system)
+[![IMS](https://github-readme-stats.vercel.app/api/pin/?username=iiakshat&repo=football_yolo&theme=graywhite&show_owner=true)](https://github.com/iiakshat/football_yolo)
 
 </div>
 

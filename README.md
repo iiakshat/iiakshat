@@ -7,8 +7,9 @@
 ## 🐧 ` Connect with me `
 
 <p align="left" style="display:inline">
-<a href="https://instagram.com/_iakshat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iakshat_" height="30" width="40" /></a>
+<a href="https://akshatsanghvi.vercel.app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5f9fc75e-1d62-47d2-ad14-ac66df43121b" alt="aknownymous" height="30" width="40" /></a>
 <a href="https://twitter.com/akshat_sanghvi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshat_sanghvi_" height="30" width="40" /></a>
+<a href="https://instagram.com/_iakshat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iakshat_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshat-sanghvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-sanghvi" height="30" width="40" /></a>
 <a href="https://kaggle.com/akshatsanghvi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatsanghvi1" height="30" width="40" /></a>
 <a href="https://huggingface.co/akshatsanghvi" target="blank"><img align="center" src="https://www.iconbolt.com/iconsets/fluent-emoji-flat/hugging-face.svg" alt="akshatsanghvi" height="35" width="40" /></a>
